@@ -11,3 +11,5 @@ Where the true distribution is:
 Sampled points using Gibbs sampling and the estimated Gaussian:
 
 ![gibbs.gif](gibbs.gif)
+
+See the python notebook for complete code.

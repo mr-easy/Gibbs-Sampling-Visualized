@@ -5,11 +5,11 @@ Create a simple GIF to visualize how Gibbs sampling samples from a 2D Gaussian d
 Code accompanying my blog post: [Implementing Gibbs sampling in Python](https://mr-easy.github.io/2020-05-21-implementing-gibbs-sampling-in-python/)
 
 The true distribution is:
-<center>
-![true.png](true.png)
-</center>
+<p align="center">
+  <img src="true.png">
+</p>
 Sampled points using Gibbs sampling and the estimated Gaussian:
-<center>
-![gibbs.gif](gibbs.gif)
-</center>
+<p align="center">
+  <img src="gibbs.gif">
+</p>
 See the python notebook for complete code: [Gibbs-from-2d-normal.ipynb](Gibbs-from-2d-normal.ipynb)

@@ -12,4 +12,4 @@ Sampled points using Gibbs sampling and the estimated Gaussian:
 <p align="center">
   <img src="gibbs.gif">
 </p>
-See the python notebook for complete code: [Gibbs_from_2d_normal.ipynb](Gibbs_from_2d_normal.ipynb)
+See the python notebook for complete code: <a href="Gibbs_from_2d_normal.ipynb">Gibbs_from_2d_normal.ipynb</a>.
